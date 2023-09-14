@@ -1,10 +1,10 @@
-import '../App.css'
+import '../CSS/App.css'
 
 function About() {
   return (
     <>
       <div>
-        <h1>About</h1>
+        <h1>Über mich</h1>
       </div>
     </>
   )
