@@ -4,7 +4,7 @@ function Projects() {
   return (
     <>
       <div>
-        <h1>Projekte</h1>
+        <h1>Projekte (TBA)</h1>
       </div>
     </>
   )

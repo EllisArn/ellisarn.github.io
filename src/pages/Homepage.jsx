@@ -10,7 +10,7 @@ function Home() {
             <h1>Ellis Arn</h1>
           </div>
           <div id="greeting-right">
-            <div>PLACEHOLDER</div>
+            <img src="https://placehold.co/300" alt="placeholder" />
           </div>
         </div>
         <div id="whatido-container">
@@ -31,26 +31,106 @@ function Home() {
           </p>
         </div>
         <div id="skills-container">
-          <div className="skill">PLACEHOLDER</div>
-          <div className="skill">PLACEHOLDER</div>
-          <div className="skill">PLACEHOLDER</div>
-          <div className="skill">PLACEHOLDER</div>
-          <div className="skill">PLACEHOLDER</div>
-          <div className="skill">PLACEHOLDER</div>
-          <div className="skill">PLACEHOLDER</div>
-          <div className="skill">PLACEHOLDER</div>
-          <div className="skill">PLACEHOLDER</div>
-          <div className="skill">PLACEHOLDER</div>
-          <div className="skill">PLACEHOLDER</div>
-          <div className="skill">PLACEHOLDER</div>
-          <div className="skill">PLACEHOLDER</div>
-          <div className="skill">PLACEHOLDER</div>
-          <div className="skill">PLACEHOLDER</div>
-          <div className="skill">PLACEHOLDER</div>
-          <div className="skill">PLACEHOLDER</div>
-          <div className="skill">PLACEHOLDER</div>
-          <div className="skill">PLACEHOLDER</div>
-          <div className="skill">PLACEHOLDER</div>
+          <img
+            className="skill"
+            src="https://placehold.co/150"
+            alt="placeholder"
+          />
+          <img
+            className="skill"
+            src="https://placehold.co/150"
+            alt="placeholder"
+          />
+          <img
+            className="skill"
+            src="https://placehold.co/150"
+            alt="placeholder"
+          />
+          <img
+            className="skill"
+            src="https://placehold.co/150"
+            alt="placeholder"
+          />
+          <img
+            className="skill"
+            src="https://placehold.co/150"
+            alt="placeholder"
+          />
+          <img
+            className="skill"
+            src="https://placehold.co/150"
+            alt="placeholder"
+          />
+          <img
+            className="skill"
+            src="https://placehold.co/150"
+            alt="placeholder"
+          />
+          <img
+            className="skill"
+            src="https://placehold.co/150"
+            alt="placeholder"
+          />
+          <img
+            className="skill"
+            src="https://placehold.co/150"
+            alt="placeholder"
+          />
+          <img
+            className="skill"
+            src="https://placehold.co/150"
+            alt="placeholder"
+          />
+          <img
+            className="skill"
+            src="https://placehold.co/150"
+            alt="placeholder"
+          />
+          <img
+            className="skill"
+            src="https://placehold.co/150"
+            alt="placeholder"
+          />
+          <img
+            className="skill"
+            src="https://placehold.co/150"
+            alt="placeholder"
+          />
+          <img
+            className="skill"
+            src="https://placehold.co/150"
+            alt="placeholder"
+          />
+          <img
+            className="skill"
+            src="https://placehold.co/150"
+            alt="placeholder"
+          />
+          <img
+            className="skill"
+            src="https://placehold.co/150"
+            alt="placeholder"
+          />
+          <img
+            className="skill"
+            src="https://placehold.co/150"
+            alt="placeholder"
+          />
+          <img
+            className="skill"
+            src="https://placehold.co/150"
+            alt="placeholder"
+          />
+          <img
+            className="skill"
+            src="https://placehold.co/150"
+            alt="placeholder"
+          />
+          <img
+            className="skill"
+            src="https://placehold.co/150"
+            alt="placeholder"
+          />
         </div>
       </div>
     </>
