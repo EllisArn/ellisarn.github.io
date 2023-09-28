@@ -2,7 +2,7 @@ function Nav() {
   return (
     <nav>
       <a className="nav-element" href="/">
-        <img id="logo" src="./src/assets/EA.svg" alt="logo" />
+        <img id="logo" src="https://raw.githubusercontent.com/EllisArn/ellisarn.github.io/main/src/assets/EA.svg" alt="logo" />
       </a>
       <ul id="navbuttons-list">
         <li>
