@@ -28,7 +28,7 @@ function About() {
           </tr>
           <tr>
             <td>Handy</td>
-            <td className="tdRight">078 340 00 04</td>
+            <td className="tdRight"></td>
           </tr>
           <tr>
             <td>E-Mail</td>
@@ -85,8 +85,7 @@ function About() {
                 <li>
                   Lars Meyer <br />
                   Berufsfachschule BBB <br />
-                  <a href="mailto:lars.meyer@bbbaden.ch">
-                    lars.meyer@bbbaden.ch
+                  <a href="mailto:">
                   </a>
                 </li>
                 <li>
@@ -97,8 +96,7 @@ function About() {
                 <li>
                   Caroline Streif Schmid <br />
                   Kantonsschule Baden <br />
-                  <a href="mailto:caroline.streif-schmid@kanti-baden.ch">
-                    caroline.streif-schmid@kanti-baden.ch
+                  <a href="mailto:">
                   </a>
                   <br />
                   <a href="tel:"></a>
