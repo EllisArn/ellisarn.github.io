@@ -92,7 +92,7 @@ function About() {
                 <li>
                   Fabrice Thut <br />
                   Berufsfachschule BBB <br />
-                  <a href="tel:0797350674">079 735 06 74</a>
+                  <a href="tel:"></a>
                 </li>
                 <li>
                   Caroline Streif Schmid <br />
@@ -101,7 +101,7 @@ function About() {
                     caroline.streif-schmid@kanti-baden.ch
                   </a>
                   <br />
-                  <a href="tel:0784035220">078 403 52 20</a>
+                  <a href="tel:"></a>
                 </li>
               </ul>
             </td>
